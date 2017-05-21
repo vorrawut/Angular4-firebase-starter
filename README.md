@@ -1,5 +1,7 @@
 # Angular4-Firebase_starter
 
+This starter project have  login , logout and register function to connect with firebase.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
 ## Development server
